@@ -25,28 +25,32 @@
          <img src="https://raw.githubusercontent.com/watery-desert/assets/main/loading_animation_widget/threeRotatingDots.gif"  width="200"/>
       </td>
    </tr>
-   <td align="center">
-      <a href="https://dribbble.com/shots/6727060-Wave-Loader">staggeredDotsWave</a>
-      <br> 
-      <img src="https://raw.githubusercontent.com/watery-desert/assets/main/loading_animation_widget/staggeredDotsWave.gif"  width="200"/>
-   </td>
-   <td align="center">
-      <a href="https://codepen.io/rbv912/pen/dYbqLQ?editors=0100">fourRotatingDots</a>
-      <br> 
-      <img src="https://raw.githubusercontent.com/watery-desert/assets/main/loading_animation_widget/fourRotatingDots.gif"  width="200"/>
-   </td>
-   <td align="center">
-      <a href="https://codepen.io/rbv912/pen/dYbqLQ?editors=0100">fallingDot</a>
-      <br> 
-      <img src="https://raw.githubusercontent.com/watery-desert/assets/main/loading_animation_widget/fallingDot.gif"  width="200"/>
-   </td>
-   <td align="center">
-      <a href="https://dribbble.com/shots/5790156-Focus-Reactive">progressiveDots</a>
-      <br> 
-      <img src="https://raw.githubusercontent.com/watery-desert/assets/main/loading_animation_widget/progressiveDots.gif"  width="200"/>
-   </td>
 
-   <td align="center">
+   <tr>
+      <td align="center">
+         <a href="https://dribbble.com/shots/6727060-Wave-Loader">staggeredDotsWave</a>
+         <br> 
+         <img src="https://raw.githubusercontent.com/watery-desert/assets/main/loading_animation_widget/staggeredDotsWave.gif"  width="200"/>
+      </td>
+      <td align="center">
+         <a href="https://codepen.io/rbv912/pen/dYbqLQ?editors=0100">fourRotatingDots</a>
+         <br> 
+         <img src="https://raw.githubusercontent.com/watery-desert/assets/main/loading_animation_widget/fourRotatingDots.gif"  width="200"/>
+      </td>
+      <td align="center">
+         <a href="https://codepen.io/rbv912/pen/dYbqLQ?editors=0100">fallingDot</a>
+         <br> 
+         <img src="https://raw.githubusercontent.com/watery-desert/assets/main/loading_animation_widget/fallingDot.gif"  width="200"/>
+      </td>
+      <td align="center">
+         <a href="https://dribbble.com/shots/5790156-Focus-Reactive">progressiveDots</a>
+         <br> 
+         <img src="https://raw.githubusercontent.com/watery-desert/assets/main/loading_animation_widget/progressiveDots.gif"  width="200"/>
+      </td>
+   </tr>
+
+   <tr> 
+         <td align="center">
       <a href="https://dribbble.com/shots/7888464-Spinner">discreteCircular</a>
       <br> 
       <img src="https://raw.githubusercontent.com/watery-desert/assets/main/loading_animation_widget/discreteCircular.gif"  width="200"/>
@@ -108,4 +112,5 @@
       <br> 
       <img src="https://raw.githubusercontent.com/watery-desert/assets/main/loading_animation_widget/dotsTriangle.gif"  width="200"/>
    </td>
+   </tr>
 </table>
