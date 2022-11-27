@@ -70,7 +70,7 @@
       <br> 
       <img src="https://raw.githubusercontent.com/watery-desert/assets/main/loading_animation_widget/flickr.gif"  width="200"/>
    </td>
-
+   <tr>
    <td align="center">
       <a href="https://dribbble.com/shots/11962729-Healio-Emotion-Tracker-Apple-Watch">hexagonDots</a>
       <br> 
@@ -91,6 +91,7 @@
       <br> 
       <img src="https://raw.githubusercontent.com/watery-desert/assets/main/loading_animation_widget/horizontalRotatingDots.gif"  width="200"/>
    </td>
+   </tr>
 
    <td align="center">
       <a href="https://dribbble.com/shots/2968029-Newton-Cradle-preloader-principle-freebie">newtonCradle</a>
